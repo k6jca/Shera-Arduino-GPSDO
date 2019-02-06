@@ -6,9 +6,9 @@ It also contains my Arduino code implementing this same algorithm.
 
 The files in this repository are:
 
-o  Shera's Original PIC Code (Ver 1.28):
+Shera's Original PIC Code (Ver 1.28):
 
-SHERA_GPSDO_PIC_CODE_VER_1P28.pdf.
+o  SHERA_GPSDO_PIC_CODE_VER_1P28.pdf.
   
 Simulink Models:
 
