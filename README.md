@@ -4,6 +4,8 @@ This repository contains Mathworks Simulink models for simulating the Brooks She
 
 It also contains my Arduino code implementing this same algorithm.
 
+Please refer to my blogpost at: 
+
 The files in this repository are:
 
 Shera's Original PIC Code (Ver 1.28):
