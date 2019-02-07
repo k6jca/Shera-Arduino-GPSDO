@@ -14,6 +14,7 @@ o  SHERA_GPSDO_PIC_CODE_VER_1P28.pdf.
 
 My Arduino Code:
 
+o  k6jca_gpsdo_Shera_190207.ino  << Latest version
 o  k6jca_gpsdo_Shera_190205.ino
   
 Simulink Models:
